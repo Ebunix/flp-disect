@@ -9,3 +9,4 @@
 | End of version string + 6 | 1 | Unlock byte, set to `0` when saved with trial version, `1` when saved with full version
 
 Thanks Image-Line for apparently moving the trial version flag into a separate byte than a bit flag, very nice and convenient for finding it again! 
+test
